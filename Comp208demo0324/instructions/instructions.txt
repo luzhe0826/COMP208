@@ -1,0 +1,7 @@
+To use the full version of the code, you need to have a Java development environment set up on your computer, such as Eclipse or IntelliJ IDEA. Once you have the development environment installed, you can follow these steps:
+1.Create a new Java project in your development environment.
+2.Create a new package named "com" in your project.
+3.Copy the code from each file in the correct package (Main.java, Player.java, Enemy.java, Background.java, Utils.java) into new classes in your project.
+4.Copy the provided image files used in the code (bg.jpg, myfish_left.png, myfish_right.png, fish1_r.png, fish1_l.png, fish2_r.png, fish2_l.png, fish3_r.png, fish3_l.png, rubbish1.png, rubbish2.png) to a folder named "images" within your project.
+5.Run the Main class to start the game.
+Note that you may need to modify the file paths used in the code to point to the correct locations of the image files on your computer. Also, be aware that the code is provided as-is and may require additional modifications or troubleshooting to work correctly on your system.
